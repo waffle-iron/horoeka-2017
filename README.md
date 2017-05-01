@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Horoeka-2017/horoeka-2017.png?label=ready&title=Ready)](https://waffle.io/Horoeka-2017/horoeka-2017)
 # Horoeka, 2017
 
 Kia ora.
